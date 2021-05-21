@@ -1,0 +1,385 @@
+{
+    "date": "2020-11-27",
+    "log": [
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000102"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000102"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201127000012"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000236"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201127000098"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201127000012"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201123000057"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000139"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000158"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000237"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000157"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000200"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201125000070"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201124000211"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201123000118"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000245"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000227"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201127000050"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201127000046"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000192"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000208"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000102"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000002"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201125000147"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000242"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201126000157"
+        }
+    ]
+}{
+    "date": "2020-12-14",
+    "log": [
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000128"
+        },
+        {
+            "title": "헥사-X 사진",
+            "log": "--- no content ---",
+            "link": "https://www.etnews.com/20201210000261"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000148"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000139"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000103"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201208000251"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201208000245"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000043"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000193"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201203000247"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201213000007"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000094"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000148"
+        }
+    ]
+}{
+    "date": "2020-12-14",
+    "log": [
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000128"
+        },
+        {
+            "title": "헥사-X 사진",
+            "log": "--- no content ---",
+            "link": "https://www.etnews.com/20201210000261"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000148"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000139"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000103"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201208000251"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201208000245"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000043"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000193"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201203000247"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201213000007"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000094"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000148"
+        }
+    ]
+}{
+    "date": "2020-12-15",
+    "log": [
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000128"
+        },
+        {
+            "title": "헥사-X 사진",
+            "log": "--- no content ---",
+            "link": "https://www.etnews.com/20201210000261"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000148"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000139"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000103"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201208000251"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201208000245"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000043"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000193"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201203000247"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201213000007"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000148"
+        }
+    ]
+}{
+    "date": "2020-12-15",
+    "log": [
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000055"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000043"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000042"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000128"
+        },
+        {
+            "title": "헥사-X 사진",
+            "log": "--- no content ---",
+            "link": "https://www.etnews.com/20201210000261"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000001"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000148"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000139"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201211000103"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201208000251"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201208000245"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000043"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000193"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201203000247"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201213000007"
+        },
+        {
+            "log": "Index Error",
+            "link": "https://www.etnews.com/20201214000148"
+        }
+    ]
+}
